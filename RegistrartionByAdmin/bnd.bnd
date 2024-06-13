@@ -1,0 +1,4 @@
+Bundle-Name: RegistrartionByAdmin
+Bundle-SymbolicName: RegistrartionByAdmin
+Bundle-Version: 1.0.0
+Export-Package: RegistrartionByAdmin.constants

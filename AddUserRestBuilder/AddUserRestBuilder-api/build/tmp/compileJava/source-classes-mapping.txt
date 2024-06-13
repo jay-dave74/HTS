@@ -1,0 +1,8 @@
+AddUserRestBuilder/dto/v1_0/UserObject.java
+ AddUserRestBuilder.dto.v1_0.UserObject
+AddUserRestBuilder/dto/v1_0/NewUser.java
+ AddUserRestBuilder.dto.v1_0.NewUser
+AddUserRestBuilder/resource/v1_0/UserResource.java
+ AddUserRestBuilder.resource.v1_0.UserResource
+ AddUserRestBuilder.resource.v1_0.UserResource$Builder
+ AddUserRestBuilder.resource.v1_0.UserResource$Factory

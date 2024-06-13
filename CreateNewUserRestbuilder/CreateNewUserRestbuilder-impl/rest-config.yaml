@@ -1,0 +1,9 @@
+apiDir: "../CreateNewUserRestbuilder-api/src/main/java"
+apiPackagePath: "CreateNewUserRestbuilder"
+application:
+    baseURI: "/CreateNewUserRestbuilder"
+    className: "CreateNewUserRestbuilderApplication"
+    name: "CreateNewUserRestbuilder"
+author: "Jay"
+clientDir: "../CreateNewUserRestbuilder-client/src/main/java"
+testDir: "../CreateNewUserRestbuilder-test/src/testIntegration/java"

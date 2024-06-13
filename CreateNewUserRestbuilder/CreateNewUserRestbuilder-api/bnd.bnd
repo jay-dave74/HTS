@@ -1,0 +1,6 @@
+Bundle-Name: CreateNewUserRestbuilder-api
+Bundle-SymbolicName: CreateNewUserRestbuilder.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	CreateNewUserRestbuilder.dto.v1_0,\
+	CreateNewUserRestbuilder.resource.v1_0

@@ -1,0 +1,6 @@
+Bundle-Name: AddUserRestBuilder-api
+Bundle-SymbolicName: AddUserRestBuilder.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	AddUserRestBuilder.dto.v1_0,\
+	AddUserRestBuilder.resource.v1_0

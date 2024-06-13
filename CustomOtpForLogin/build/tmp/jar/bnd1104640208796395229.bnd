@@ -1,0 +1,46 @@
+-add-resource=D\:/Last/Sample/modules/CustomOtpForLogin/build/tmp/compileJSP,D\:/Last/Sample/modules/CustomOtpForLogin/build/jspc
+Bundle-Name=CustomOtpForLogin
+libsDirName=libs
+Javac-Debug=on
+-plugin.liferay=com.liferay.ant.bnd.resource.AddResourceVerifierPlugin,com.liferay.ant.bnd.jsp.JspAnalyzerPlugin,com.liferay.ant.bnd.metatype.MetatypePlugin,com.liferay.ant.bnd.npm.NpmAnalyzerPlugin,com.liferay.ant.bnd.resource.bundle.ResourceBundleLoaderAnalyzerPlugin,com.liferay.ant.bnd.sass.SassAnalyzerPlugin,com.liferay.ant.bnd.service.ServiceAnalyzerPlugin,com.liferay.ant.bnd.social.SocialAnalyzerPlugin,aQute.lib.spring.SpringComponent,com.liferay.ant.bnd.spring.SpringDependencyAnalyzerPlugin,com.liferay.ant.bnd.enterprise.EnterpriseAnalyzerPlugin
+docsDirName=docs
+-contract=*
+-metatype=*
+testReportDirName=tests
+liferay.workspace.wars.dir=modules
+Javac-Deprecation=off
+name=CustomOtpForLogin
+liferay.workspace.themes.dir=themes
+description=CustomOtpForLogin
+liferay.workspace.product=dxp-7.4-u73
+distsDirName=distributions
+-fixupmessages.deprecated=annotations are deprecated
+Fragment-Host=com.liferay.login.web;bundle-version\="6.0.38"
+liferay.workspace.home.dir=D\:serverliferay-dxp-7.4.13.u73
+target.platform.index.sources=false
+liferay.workspace.modules.dir=modules
+group=Sample.modules
+archivesBaseName=customotpforlogin
+-donotcopy=(.*.wsdd)
+-plugin.metatype=com.liferay.ant.bnd.metatype.MetatypePlugin
+-fixupmessages.unicode.string=Invalid unicode string
+-jsp=*.jsp,*.jspf,*.jspx
+liferay.workspace.bundle.dist.include.metadata=true
+Bundle-SymbolicName=customotpforlogin
+status=integration
+displayName=project '\:modules\:CustomOtpForLogin'
+-consumer-policy=${replacestring;${range;[\=\=,\=\=]};.*,(.*)];$1}
+testResultsDirName=test-results
+-includeresource.compileInclude=
+microsoft.translator.subscription.key=
+path=\:modules\:CustomOtpForLogin
+-noclassforname=true
+Bundle-Version=1.0.0
+-liferay-service-xml=service.xml,*/service.xml
+version=1.0.0
+-fixupmessages.classpath.empty=Classpath is empty
+-cdiannotations=
+-sass=*
+Portal-Bundle-Version=7.4.13
+Javac-Encoding=Cp1252
+-provider-policy=${replacestring;${range;[\=\=,\=\=]};.*,(.*)];$1}

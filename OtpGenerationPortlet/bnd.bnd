@@ -1,0 +1,4 @@
+Bundle-Name: OtpGenerationPortlet
+Bundle-SymbolicName: OtpGenerationPortlet
+Bundle-Version: 1.0.0
+Export-Package: OtpGenerationPortlet.constants
